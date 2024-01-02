@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6eTaFkVe)
 # Binary converter
 
 This is a template repository for **PSYC 81.09 Assignment 3: Binary converter**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  After [accepting the assignment](link), open (click) the `binary_converter.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
